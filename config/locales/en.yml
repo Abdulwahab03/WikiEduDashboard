@@ -31,7 +31,10 @@ en:
           billion: B
           trillion: T
           quadrillion: Q
+<<<<<<< Updated upstream
 
+=======
+>>>>>>> Stashed changes
   accessibility:
     number_field: This is a number field. The buttons rendered by most browsers will increment and decrement the input.
 
@@ -86,7 +89,11 @@ en:
     opt_yes: "yes"
     opt_no: "no"
     print: Print
+<<<<<<< Updated upstream
 
+=======
+    okay: Okay
+>>>>>>> Stashed changes
   article_statuses:
     not_yet_started: Getting Started
     in_progress: Working in Sandbox
@@ -155,6 +162,7 @@ en:
     label: Activity
 
   articles:
+    quality_checklist: Quality checklist
     articles: Articles
     article_not_found: "This article has not been created yet."
     article_development: (article development)
